@@ -1,8 +1,9 @@
+import 'antd/dist/antd.css';
 import React from 'react';
 
 const App = () => {
   return (
-    <div>App</div>
+    <div>Hello</div>
   )
 }
 
